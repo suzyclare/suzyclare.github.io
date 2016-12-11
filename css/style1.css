@@ -9,11 +9,18 @@ h1{
 
 h2{
 	font-size:40px;
+	font-family: 'Dancing Script', cursive;
 	
 }
 
+p1{
+	font-size: 30px;
+	color: maroon;
+	font-family: 'Dancing Script', cursive;
+}
+
 body{
-	background-color: #bbdefb;
+	background-image: url(../img/maps.jpg);
 }
 
 .travel
@@ -25,4 +32,14 @@ body{
 {
 	margin-right: 100px;
 	margin-left: 100px;
+}
+
+.about_me {
+
+margin-bottom: 25px;
+}
+
+.navcolour {
+	background-color: rgba(248, 248, 248, 0.68);
+    border-color: #0c0010;
 }
