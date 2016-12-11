@@ -1,0 +1,28 @@
+h1{
+	color: red; 
+	background-color: pink;
+	text-align: center;
+	border: 3px solid #ab47bc;
+	font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    }
+
+h2{
+	font-size:40px;
+	
+}
+
+body{
+	background-color: #bbdefb;
+}
+
+.travel
+{	
+	border: 3px solid black;
+}
+
+.description
+{
+	margin-right: 100px;
+	margin-left: 100px;
+}
