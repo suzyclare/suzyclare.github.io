@@ -1,0 +1,79 @@
+h1{
+	color: maroon; 
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+
+    }
+
+h2{
+	font-size:40px;
+	font-family: 'Slabo 27px', serif;
+
+	
+}
+
+p1{
+	font-size: 30px;
+	color: maroon;
+	font-family: 'Slabo 27px', serif;
+	text-align: justify;
+}
+
+p2{
+	color: black;
+	font-size: 20px;
+}
+
+body{
+	background-image: url(../img/floral.jpg);
+}
+
+.travel
+{	
+	border: 3px solid black;
+}
+
+.description
+{
+	margin-right: 100px;
+	margin-left: 100px;
+
+}
+
+.about_me {
+
+margin-bottom: 25px;
+margin-left: -60px;
+}
+
+.navcolour {
+	background-color: rgba(248, 248, 248, 0.68);
+    border-color: #0c0010;
+}
+
+h4{
+	font-size: 20px;
+	color: maroon;
+	font-family: 'Slabo 27px', serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+h3{
+	font-size: 30px;
+	color: black;
+	font-family: 'Slabo 27px', serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+ul{
+	font-size: 20px;
+	color: blue;
+	font-family: 'Slabo 27px', serif;
+
+}
+
+
